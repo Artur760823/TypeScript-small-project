@@ -1,0 +1,5 @@
+add option salary
+add sum of salary
+add differences between salary and payments
+
+add sum of invoices
