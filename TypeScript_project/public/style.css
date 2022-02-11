@@ -26,6 +26,7 @@ li{
   padding: 6px 10px;
   border: 1px solid #eee;
   margin: 10px auto;
+  background-color:rgba(255,255,255, 0.8); ;
 }
 li h4{
   color: royalblue;
